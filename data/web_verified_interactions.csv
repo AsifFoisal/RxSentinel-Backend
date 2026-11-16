@@ -1,0 +1,3 @@
+drug_a,drug_b,severity,mechanism,management,source
+Cefuroxime,Paracetamol,None,No significant pharmacokinetic or pharmacodynamic interaction has been reported.,No special precautions needed; both drugs can be used together.,https://www.drugs.com/drug-interactions.php?drug1=479&drug2=578
+Cefuroxime,Warfarin,Moderate,Using warfarin together with cefuroxime may increase the risk of bleeding. The interaction is due to possible additive effects on prothrombin time.,Monitor INR more frequently and adjust warfarin dose as needed.,https://www.drugs.com/drug-interactions/cefuroxime-warfarin.html

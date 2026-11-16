@@ -1,0 +1,343 @@
+generic_id,generic_title,ingredients_kept,other_ingredients,verdict,example_brands,row_count
+1,23 herb formula to increase breast milk,"[""10 Vitamin & 6 Mineral [Pregnancy and Breast Feeding Formula]""]","[""23 herb formula to increase breast milk""]",different_ingredients,Lactohil,6
+10,Aloe + Black Pepper + Henbane,"[""Aceclofenac""]","[""Aloe"", ""Black Pepper"", ""Henbane""]",different_ingredients,Helax,138
+100,Fenugreek + Gymnema,"[""Anidulafungin""]","[""Fenugreek"", ""Gymnema""]",different_ingredients,"Domnil, Methi Plus",5
+101,Fermented soy [Lactobacillus Delbrueckii],"[""Antazoline"", ""Tetryzoline""]","[""Fermented soy [Lactobacillus Delbrueckii]""]",different_ingredients,"Gastroaid, Sinasoy",4
+102,"Fishar [Snake root, Potassium, Magnesium]","[""Anti Dandruff Shampoo [NODE]""]","[""Fishar [Snake root, Potassium, Magnesium]""]",different_ingredients,Normatensin,2
+103,Flaxseed oil [Linum Usitatissimum],"[""Anti-human T-lymphocyte immunoglobulin""]","[""Flaxseed oil [Linum Usitatissimum]""]",different_ingredients,Gelaseed,2
+104,Foeniculum Vulgare,"[""Anti-Thymocyte Globulin""]","[""Foeniculum Vulgare""]",different_ingredients,Arq Badiyan,2
+105,Foeniculum vulgare + Papaver somniferum + Terminalia chebula,"[""Antihemophilic Factor [Factor VIII]""]","[""Foeniculum vulgare"", ""Papaver somniferum"", ""Terminalia chebula""]",different_ingredients,Sufoof Moya,2
+106,Garlic Oil,"[""Apalutamide""]","[""Garlic Oil""]",different_ingredients,"Garlicap, Garlin, Garllium",5
+107,Garlitab,"[""Apis mellifica"", ""Gelsemium sempervirens"", ""Gnaphalium""]","[""Garlitab""]",different_ingredients,"Alisa, G-Garlic, Garlistat",4
+108,Ginkgo Biloba,"[""Apixaban""]","[""Ginkgo Biloba""]",different_ingredients,"Abolib, Altiver, Bilo-X, Biloba, Bilogin",48
+109,Glycyrrhiza glabra + Cochiospermum religiosum,"[""Apremilast""]","[""Glycyrrhiza glabra"", ""Cochiospermum religiosum""]",different_ingredients,Sufoof Qarahine,12
+11,Aloe barbadensis,"[""Acemetacin""]","[""Aloe barbadensis""]",different_ingredients,Ghitika,2
+110,Glycyrrhiza glabra + Glycyrrhiza glabra,"[""Aprepitant""]","[""Glycyrrhiza glabra"", ""Glycyrrhiza glabra""]",different_ingredients,Suput,9
+111,Glycyrrhiza glabra + Stevia rebaudiana + Saccharum bengalense + Scoparia dulcis,"[""Aqua, glycerin, PEG-40 hydrogenated castor oil, carbomer, Biolin, tocopheryl acetate""]","[""Glycyrrhiza glabra"", ""Stevia rebaudiana"", ""Saccharum bengalense"", ""Scoparia dulcis""]",different_ingredients,Mistin,4
+112,Gohkshura,"[""Arabinoxylan""]","[""Gohkshura""]",different_ingredients,Renocare,3
+113,Guggul + Barberry + Chebulic Myrobalan,"[""Arformoterol Tartrate""]","[""Guggul"", ""Barberry"", ""Chebulic Myrobalan""]",different_ingredients,Hanrhoid-B,2
+114,Habb-e Asgand,"[""Aripiprazole""]","[""Habb-e Asgand""]",different_ingredients,Nervola,14
+115,Habb-e Azaraqi,"[""Armodafinil""]","[""Habb-e Azaraqi""]",different_ingredients,Azner,4
+116,Habb-E Hayateen Murakkab Jawahirdar,"[""Arsenic Trioxide""]","[""Habb-E Hayateen Murakkab Jawahirdar""]",different_ingredients,"Green Gold, Muravit, Poly Bion-G, Poly Bion-M",5
+117,Habb-e Jiryan,"[""Artemether"", ""Lumefantrine""]","[""Habb-e Jiryan""]",different_ingredients,Jiryan,7
+118,Habb-E Mudir,"[""Artesunate""]","[""Habb-E Mudir""]",different_ingredients,Menorex,4
+119,Habb-e Mumsik,"[""Articaine Hydrochloride"", ""Epinephrine Bitartrate""]","[""Habb-e Mumsik""]",different_ingredients,Mumsik,2
+12,Aloe ferox + Foeniculi fructus,"[""Acetate Formulation [Hemodialysis Solution]""]","[""Aloe ferox"", ""Foeniculi fructus""]",different_ingredients,Alosina,2
+120,Habb-E Shefa,"[""Asciminib""]","[""Habb-E Shefa""]",different_ingredients,Herbotril,2
+121,Habb-e Suranjan,"[""Asenapine Maleate""]","[""Habb-e Suranjan""]",different_ingredients,"Achless, Arthacin, Kolsina, Surobin",5
+122,Habb-e Suzak,"[""Aspartame""]","[""Habb-e Suzak""]",different_ingredients,Urosina,8
+123,Habb-E Tinkar,"[""Aspirin""]","[""Habb-E Tinkar""]",different_ingredients,Smotin,18
+124,Habb-E Yarqan,"[""Aspirin"", ""Dipyridamole""]","[""Habb-E Yarqan""]",different_ingredients,Livetex,2
+125,Habb-e-Nishat,"[""Astaxanthin""]","[""Habb-e-Nishat""]",different_ingredients,"Duratab, Ridex",22
+126,Habbe Bawaseer Badi,"[""Atenolol""]","[""Habbe Bawaseer Badi""]",different_ingredients,Hemorin,47
+127,Habbe Bawaseer Damavi,"[""Atenolol"", ""Chlorthalidone""]","[""Habbe Bawaseer Damavi""]",different_ingredients,"Hemopil, Pile-G",7
+128,Habbe Duwar,"[""Atezolizumab""]","[""Habbe Duwar""]",different_ingredients,Duwar,2
+129,Hayateen Murakkab,"[""Atomoxetine Hydrochloride""]","[""Hayateen Murakkab""]",different_ingredients,Suvit,6
+13,Aloe indica+ Hyoscyamus niger + Piper nigrum,"[""Acetazolamide""]","[""Aloe indica"", ""Hyoscyamus niger"", ""Piper nigrum""]",different_ingredients,Alovera,3
+130,Hazmina,"[""Atorvastatin"", ""Ezetimibe""]","[""Hazmina""]",different_ingredients,"Difans, Hazmi, Hazmon, Hazmotab",35
+131,Herbal cough syrup [Glycyrrhiza Glabra],"[""Atorvastatin Calcium""]","[""Herbal cough syrup [Glycyrrhiza Glabra]""]",different_ingredients,Joshina,144
+132,Herbal cough syrup [Sharbat Tulsi],"[""Atosiban Acetate""]","[""Herbal cough syrup [Sharbat Tulsi]""]",different_ingredients,"Alkof, Azmatone, Saduri",11
+133,Herbal cough syrup [Vasakarista],"[""Atracurium Besilate""]","[""Herbal cough syrup [Vasakarista]""]",different_ingredients,"Acme's Basok, Adolef, Adovas, Basok Plus, Basokof",17
+134,Herbal gastric preparation,"[""Atropine Sulfate (Injection)""]","[""Herbal gastric preparation""]",different_ingredients,Carmina,7
+135,Herbs Argan Oil,"[""Atropine Sulfate (Ophthalmic)""]","[""Herbs Argan Oil""]",different_ingredients,Maya true herbs (Argan oil),13
+136,Herbs Marula Oil,"[""Avanafil""]","[""Herbs Marula Oil""]",different_ingredients,Maya true herbs (Marula oil),3
+137,Hingastak Churna,"[""Avatrombopag""]","[""Hingastak Churna""]",different_ingredients,Ulpep,6
+138,Hygiene & Healthcare,"[""Avelumab""]","[""Hygiene & Healthcare""]",different_ingredients,"A-cerumen, Diabetasol, Folate Enriched Egg, Marimer Hypertonic, Marimer Unidose",10
+139,iota-Carrageenan,"[""Axitinib""]","[""iota-Carrageenan""]",different_ingredients,Carazol,2
+14,Aloe Vera Extract,"[""Acetylcysteine""]","[""Aloe Vera Extract""]",different_ingredients,Alocap,16
+140,"Ishobgul, Senna, Haritaki, Sonali, Josthimodhu, Mouri","[""Azacitidine""]","[""Ishobgul, Senna, Haritaki, Sonali, Josthimodhu, Mouri""]",different_ingredients,Laxisoft,5
+141,Ispaghula Husk [Psyllium],"[""Azathioprine""]","[""Ispaghula Husk [Psyllium]""]",different_ingredients,"E-Bhushi, Egul, Farmberry, Fiberlax, Fiborex-G",25
+142,Ispaghula Husk [Psyllium] + Senna Extract,"[""Azelaic Acid""]","[""Ispaghula Husk [Psyllium]"", ""Senna Extract""]",different_ingredients,"Fecilax, Fibosyl-S, Ispahusk Plus, Laxadil-Senna, Natlax",6
+143,Ispaghula Husk + Ispaghula Seed + Tinnevelly Senna Pods,"[""Azelastine Hydrochloride""]","[""Ispaghula Husk"", ""Ispaghula Seed"", ""Tinnevelly Senna Pods""]",different_ingredients,GastroLax,6
+144,Ispaghula Husk + Mebeverine Hydrochloride,"[""Azelastine Hydrochloride"", ""Fluticasone Propionate""]","[""Ispaghula Husk"", ""Mebeverine Hydrochloride""]",different_ingredients,"Fiberlax Ultra, M-Lax, Mevelum, Rostil Plus",12
+145,Ispaghula Husk + Sonapata,"[""Azilsartan Medoxomil""]","[""Ispaghula Husk"", ""Sonapata""]",different_ingredients,"Bio Eazylax, Fibrocell, Isabgul Plus, Ispa Plus, Softgut",16
+146,Ivy and Thyme extract,"[""Azilsartan Medoxomil"", ""Chlorthalidone""]","[""Ivy and Thyme extract""]",different_ingredients,"Ivycof, Thyvy",4
+147,"Jadwar [Denudatum, Saffron, Henbane]","[""Azithromycin Dihydrate""]","[""Jadwar [Denudatum, Saffron, Henbane]""]",different_ingredients,"Maxfeel, Nervent",292
+148,Jamani Arka,"[""Azithromycin Dihydrate (Ophthalmic)""]","[""Jamani Arka""]",different_ingredients,"Digac, Zainarq-Jayson",7
+149,Jatamangsi Arka,"[""Aztreonam""]","[""Jatamangsi Arka""]",different_ingredients,Lefort,3
+15,Aloe Vera extract + Tea Tree oil,"[""Acidic component [HCO3 Hemodialysis Solution]""]","[""Aloe Vera extract"", ""Tea Tree oil""]",different_ingredients,Alofresh,7
+150,Jeerakaddarishta Carminative,"[""Baby's Skin Care [ABCDerm]""]","[""Jeerakaddarishta Carminative""]",different_ingredients,Pepnor,3
+151,Jinsin,"[""Bacillus Clausii spores""]","[""Jinsin""]",different_ingredients,Jinsant,2
+152,Jirakaddarista,"[""Bacitracin Zinc"", ""Polymyxin B Sulfate""]","[""Jirakaddarista""]",different_ingredients,Kidcare,3
+153,Jogaraj Guggulu,"[""Baclofen""]","[""Jogaraj Guggulu""]",different_ingredients,Jorvan,103
+154,Jouban Satadal,"[""Balanced Salt Solution""]","[""Jouban Satadal""]",different_ingredients,Vigo-Fort,4
+155,Jowarish Bisbasa,"[""Baloxavir Marboxil""]","[""Jowarish Bisbasa""]",different_ingredients,Jowrish Bisbasa,5
+156,Jowarish Kamuni,"[""Bambuterol Hydrochloride""]","[""Jowarish Kamuni""]",different_ingredients,Jowrish Kamuni,16
+157,Kabid Naushadri,"[""Baricitinib""]","[""Kabid Naushadri""]",different_ingredients,Kabid Naushadri,15
+158,Kabid Nawshadri,"[""Barium Sulfate""]","[""Kabid Nawshadri""]",different_ingredients,Hepalgin,2
+159,Khakshi,"[""Basiliximab""]","[""Khakshi""]",different_ingredients,Fevnil,2
+16,Amalaki Rasayana,"[""Acitretin""]","[""Amalaki Rasayana""]",different_ingredients,Amlacid,7
+160,Kurchi,"[""Beclometasone"", ""Formoterol"", ""Glycopyrronium""]","[""Kurchi""]",different_ingredients,Holarant,5
+161,Kusta Qalyee [Calcined stannum],"[""Beclomethasone Dipropionate (Inhaler)""]","[""Kusta Qalyee [Calcined stannum]""]",different_ingredients,Spermatin,12
+162,Kutajadi Kwath,"[""Beclomethasone Dipropionate (Nasal Spray)""]","[""Kutajadi Kwath""]",different_ingredients,Dyroma,4
+163,L-carnitine + L-arginine + Ubidecarenone + Vitamin E + Zinc + Folic acid + Glutathione + Selenium,"[""Beclomethasone Dipropionate"", ""Chloramphenicol"", ""Clotrimazole"", ""Lidocaine""]","[""L-carnitine"", ""L-arginine"", ""Ubidecarenone"", ""Vitamin E"", ""Zinc"", ""Folic acid"", ""Glutathione"", ""Selenium""]",different_ingredients,ProFertil (For male),2
+165,L-Glutathione,"[""Bempedoic acid""]","[""L-Glutathione""]",different_ingredients,Neucel,7
+166,Lavandula stoechas + Coriandrum sativum + Piper nigrum,"[""Bempedoic acid"", ""Ezetimibe""]","[""Lavandula stoechas"", ""Coriandrum sativum"", ""Piper nigrum""]",different_ingredients,Masukh Suda,2
+167,Licorice + Vasaka + Basil + Peppermint,"[""Bendamustine""]","[""Licorice"", ""Vasaka"", ""Basil"", ""Peppermint""]",different_ingredients,Sualin,2
+168,Licorice + Yellow Silk Cotton + Mastic tree,"[""Benzalkonium chloride""]","[""Licorice"", ""Yellow Silk Cotton"", ""Mastic tree""]",different_ingredients,Qarhin,2
+169,Liquorice + Cascara Sagrada + Belladona,"[""Benzathine Benzylpenicillin""]","[""Liquorice"", ""Cascara Sagrada"", ""Belladona""]",different_ingredients,Jernide,4
+17,Ambar Momiyaee,"[""Aclidinium Bromide"", ""Formoterol Fumarate""]","[""Ambar Momiyaee""]",different_ingredients,"Afrodic, Androbex, Frodex, Hormo Plus, Vialong",6
+170,Lutein + Zeaxanthin,"[""Benzocaine"", ""Butamben"", ""Tetracaine Hydrochloride""]","[""Lutein"", ""Zeaxanthin""]",different_ingredients,"Lutexan, Luxen, Luzent, Luzinta, Luzinta kids",6
+172,Mahadrakkharist [Grape extract],"[""Benzonatate""]","[""Mahadrakkharist [Grape extract]""]",different_ingredients,"Asmarid, Revatol",3
+173,Malus sylvestris,"[""Benzoyl Peroxide""]","[""Malus sylvestris""]",different_ingredients,Apelin,4
+174,Marham Aramin,"[""Benzydamine"", ""Chlorhexidine gluconate""]","[""Marham Aramin""]",different_ingredients,"Analzin, Medix, Voltasin",5
+175,Marham Jadeed,"[""Benzydamine Hydrochloride""]","[""Marham Jadeed""]",different_ingredients,Recto,4
+176,Marham Kharish,"[""Benzyl Benzoate""]","[""Marham Kharish""]",different_ingredients,"Dermaid, Dermarish, Scarish",15
+177,Marham Neem,"[""Bepotastine Besilate""]","[""Marham Neem""]",different_ingredients,Neement,9
+178,Marine Collagen,"[""Bepotastine Besilate""]","[""Marine Collagen""]",different_ingredients,Cozen,2
+179,Marwareedi,"[""Besifloxacin""]","[""Marwareedi""]",different_ingredients,"Calrip, Femocal",11
+18,Ambergris + Salep + Galangal,"[""Activated Charcoal""]","[""Ambergris"", ""Salep"", ""Galangal""]",different_ingredients,Trigone,2
+180,"Melon extract, Vitamin & Minerals","[""Beta carotene"", ""Vitamin C"", ""Vitamin E""]","[""Melon extract, Vitamin & Minerals""]",different_ingredients,VitiliSOD,42
+181,Menaquinone-7,"[""Betahistine Dihydrochloride""]","[""Menaquinone-7""]",different_ingredients,Menaquin,13
+182,Menaquinone-7 + Algae Calcium + Vitamin D3,"[""Betahistine Mesylate""]","[""Menaquinone-7"", ""Algae Calcium"", ""Vitamin D3""]",different_ingredients,"K2Cal, MenaCal-D",3
+183,Menaquinone-7 + Coral Calcium + Vitamin D3,"[""Betamethasone""]","[""Menaquinone-7"", ""Coral Calcium"", ""Vitamin D3""]",different_ingredients,"Fosibon-DK, Kalcoral-K, Natcoral-DK, Shell-Dx",5
+184,Mentha + Cinnamomum + Gaultheria + Capsicum,"[""Betamethasone"", ""Calcipotriol""]","[""Mentha"", ""Cinnamomum"", ""Gaultheria"", ""Capsicum""]",different_ingredients,Cool max,6
+185,Mentha Arvensis,"[""Betamethasone"", ""Clotrimazole""]","[""Mentha Arvensis""]",different_ingredients,Arq Poodina,19
+186,Menthol + Camphor + Eucalyptus Oil + Mint Oil,"[""Betamethasone"", ""Clotrimazole"", ""Gentamicin""]","[""Menthol"", ""Camphor"", ""Eucalyptus Oil"", ""Mint Oil""]",different_ingredients,"Icyfeel, Moov, Reli Balm",8
+187,Menthol + Camphor + Methyl Salicylate + Oleoresin Capsicum,"[""Betamethasone"", ""Neomycin Sulphate (Ophthalmic)""]","[""Menthol"", ""Camphor"", ""Methyl Salicylate"", ""Oleoresin Capsicum""]",different_ingredients,"Painthol, Torel",12
+188,Menthol + Eucalyptus Oil,"[""Betamethasone"", ""Neomycin Sulphate (Topical)""]","[""Menthol"", ""Eucalyptus Oil""]",different_ingredients,Nasovap,31
+189,Miscellaneous Herbal Brands,"[""Betamethasone"", ""Phenylephrine"", ""Lignocaine""]","[""Miscellaneous Herbal Brands""]",different_ingredients,"Amlasia, Antifev, Femista, Hamdard Bhringaraj, Hamdard Honey",39
+19,"Amino Acids, Vitamins, Minerals & Plant based silicon","[""Acyclovir (Injection)""]","[""Amino Acids, Vitamins, Minerals & Plant based silicon""]",different_ingredients,Novogain,14
+190,Monjistha [Rubia cordifolia],"[""Betamethasone Dipropionate""]","[""Monjistha [Rubia cordifolia]""]",different_ingredients,Femiton,6
+191,Moringa Oleifera [Moringa leaf extract],"[""Betamethasone Dipropionate"", ""Salicylic Acid""]","[""Moringa Oleifera [Moringa leaf extract]""]",different_ingredients,"H-Moringa, Moringa, Moringa LX",10
+192,"Mosquito Repellent Citronella, Eucalyptus oil, Peppermint oil","[""Betamethasone Sodium Phosphate""]","[""Mosquito Repellent Citronella, Eucalyptus oil, Peppermint oil""]",different_ingredients,Mosquito Repellent,6
+193,"Mudir [Aloe, Saffron, Ferrus sulphate]","[""Betamethasone Valerate""]","[""Mudir [Aloe, Saffron, Ferrus sulphate]""]",different_ingredients,Promef,19
+194,Multi Probiotics + Prebiotic + Vitamin + Minerals + Amino acid,"[""Betaxolol Hydrochloride""]","[""Multi Probiotics"", ""Prebiotic"", ""Vitamin"", ""Minerals"", ""Amino acid""]",different_ingredients,Rumicell,5
+195,Mumshik,"[""Bethanechol Chloride""]","[""Mumshik""]",different_ingredients,Endurex,2
+196,Munish,"[""Betrixaban""]","[""Munish""]",different_ingredients,"Green Plus, Neutone",4
+197,Mustakarista,"[""Bevacizumab""]","[""Mustakarista""]",different_ingredients,"Acmina, Elzyne, Sudys",17
+198,Myo-Inositol + Vitamin B6 + Folic acid,"[""Bicalutamide""]","[""Myo-Inositol"", ""Vitamin B6"", ""Folic acid""]",different_ingredients,ProFertil inositol,6
+199,Nabayas Louha Herbal Haematinic,"[""Bicarbonate Component [HCO3 Hemodialysis Solution]""]","[""Nabayas Louha Herbal Haematinic""]",different_ingredients,Arubin,7
+2,5-Hydroxytryptophan + Valerian extract,"[""15 vitamins and minerals""]","[""5-Hydroxytryptophan"", ""Valerian extract""]",different_ingredients,5HTP,2
+20,Analgesic and anti-inflammatory,"[""Acyclovir (Ophthalmic)""]","[""Analgesic and anti-inflammatory""]",different_ingredients,Rowghan Surkh,10
+200,Natural blood purifier,"[""Bilastine""]","[""Natural blood purifier""]",different_ingredients,Majoon Ushba,81
+201,Natural Eggshell Membrane,"[""Bimatoprost""]","[""Natural Eggshell Membrane""]",different_ingredients,OrthoNEM,4
+202,Natural Hair & Scalp Oil,"[""Bimatoprost"", ""Timolol""]","[""Natural Hair & Scalp Oil""]",different_ingredients,Maya all natural,2
+203,"Natural herbs, amino acids, vitamins and minerals","[""Biphasic Insulin Aspart""]","[""Natural herbs, amino acids, vitamins and minerals""]",different_ingredients,ZentoVit,3
+204,Natural medicine for diabetes,"[""Bisacodyl""]","[""Natural medicine for diabetes""]",different_ingredients,Dolabi,2
+205,Natural refreshing halal sharbat,"[""Bismuth Subsalicylate""]","[""Natural refreshing halal sharbat""]",different_ingredients,Rooh Afza,8
+206,Neem,"[""Bisoprolol Fumarate""]","[""Neem""]",different_ingredients,"Nemocell, Nim Gold",101
+207,Nervine tonic,"[""Bisoprolol Fumarate"", ""Amlodipine Besilate""]","[""Nervine tonic""]",different_ingredients,Majoon Lana,19
+208,Nigella Sativa + Azadirachta Indica + Cichorium Intybus + Trigonella Foenum-Graecum,"[""Bisoprolol Fumarate"", ""Hydrochlorothiazide""]","[""Nigella Sativa"", ""Azadirachta Indica"", ""Cichorium Intybus"", ""Trigonella Foenum-Graecum""]",different_ingredients,Diabeat,35
+209,Nimbadi Churna,"[""Bivalirudin""]","[""Nimbadi Churna""]",different_ingredients,Nim-A,2
+21,Andrographis paniculata,"[""Acyclovir (Oral)""]","[""Andrographis paniculata""]",different_ingredients,"Anros, Flucare, Livolite",20
+210,Nux-vomica + Black Pepper + Long Pepper,"[""Bleomycin Sulfate""]","[""Nux-vomica"", ""Black Pepper"", ""Long Pepper""]",different_ingredients,Rosnum,2
+211,Nymphaea nouchali,"[""Blood glucose monitoring device""]","[""Nymphaea nouchali""]",different_ingredients,"Lily, Neelofar",67
+212,Omega-3 Fatty Acids+ Folic acid + Selenium + Ubidecarenone + Vitamin E + Catechins + Glycyrrhizin,"[""Bortezomib""]","[""Omega-3 Fatty Acids"", ""Folic acid"", ""Selenium"", ""Ubidecarenone"", ""Vitamin E"", ""Catechins"", ""Glycyrrhizin""]",different_ingredients,ProFertil (For female),6
+213,Panax Ginseng,"[""Bosentan Monohydrate""]","[""Panax Ginseng""]",different_ingredients,"Anseng, Ginax, Ginera, Ginseng, Ginsina",17
+214,Panax ginseng + Ginkgo biloba,"[""BP monitoring device""]","[""Panax ginseng"", ""Ginkgo biloba""]",different_ingredients,Ginsenia,38
+215,Patrangasav,"[""Brexpiprazole""]","[""Patrangasav""]",different_ingredients,"Lecor, Lecosav",6
+216,Pechish,"[""Brigatinib""]","[""Pechish""]",different_ingredients,Dysni,8
+217,Pelargonium Sidoides,"[""Brimonidine Tartrate""]","[""Pelargonium Sidoides""]",different_ingredients,Nexipel,10
+218,Penitab,"[""Brimonidine Tartrate"", ""Timolol Maleate""]","[""Penitab""]",different_ingredients,Centurin,20
+219,Peppermint Oil,"[""Brinzolamide""]","[""Peppermint Oil""]",different_ingredients,"Colmint, Liqumint, Mintek, Mintol",19
+22,Aniseed + Indian dill + Black cardamom + Peppermint,"[""Acyclovir (Topical)""]","[""Aniseed"", ""Indian dill"", ""Black cardamom"", ""Peppermint""]",different_ingredients,Naunehal,7
+220,Phyllanthus + Terminalia + Foeniculum + Terminalia,"[""Brinzolamide"", ""Brimonidine Tartrate""]","[""Phyllanthus"", ""Terminalia"", ""Foeniculum"", ""Terminalia""]",different_ingredients,Etrifal Badian,14
+221,Phyllanthus emblica + Bambusa bambos,"[""Brinzolamide"", ""Timolol""]","[""Phyllanthus emblica"", ""Bambusa bambos""]",different_ingredients,Sufoof Amla,6
+222,Prasarani Sandhan,"[""Brivaracetam""]","[""Prasarani Sandhan""]",different_ingredients,Reumacare,17
+223,Premature ejaculation,"[""Brolucizumab""]","[""Premature ejaculation""]",different_ingredients,Majoon Mumsik,2
+224,Proanthocyanidins,"[""Bromazepam""]","[""Proanthocyanidins""]",different_ingredients,Pycnogenol,46
+225,Probiotic Combination [14 strains],"[""Bromfenac Sodium""]","[""Probiotic Combination [14 strains]""]",different_ingredients,Bio-Kult,23
+226,Probiotic Combination [2 Billion],"[""Bromhexine Hydrochloride""]","[""Probiotic Combination [2 Billion]""]",different_ingredients,"Inflor-J, Lactocard, Lactoflora",51
+227,Probiotic Combination [2.3 Billion],"[""Bromocriptine Mesylate""]","[""Probiotic Combination [2.3 Billion]""]",different_ingredients,"Acteria Femina, Gynolac, Luvena",9
+228,Probiotic Combination [20 Billion],"[""Budesonide (Inhaler)""]","[""Probiotic Combination [20 Billion]""]",different_ingredients,"Biosolve, Ezygut, Probio R, Welgut",5
+229,Probiotic Combination [45 Billion],"[""Budesonide (Nasal Spray)""]","[""Probiotic Combination [45 Billion]""]",different_ingredients,CKDpro,6
+23,Apple Vinegar + Garcinia cambogia + Ginger Root + Cayenne Pepper,"[""Acyclovir"", ""Hydrocortisone""]","[""Apple Vinegar"", ""Garcinia cambogia"", ""Ginger Root"", ""Cayenne Pepper""]",different_ingredients,Fitvit,6
+230,Probiotic Combination [9 Billion],"[""Budesonide (Nebuliser Suspension)""]","[""Probiotic Combination [9 Billion]""]",different_ingredients,"Bacigut, Bacilax, Trugut",11
+231,Probiotic Combination Bi-07 [10 Billion],"[""Budesonide (Tablet)""]","[""Probiotic Combination Bi-07 [10 Billion]""]",different_ingredients,Imugen,3
+232,Probiotic Combination HN019 [10 Billion],"[""Budesonide"", ""Formoterol Fumarate""]","[""Probiotic Combination HN019 [10 Billion]""]",different_ingredients,"B-Kill, Bioflora, Lactobac, Prodigest",54
+233,Pudina,"[""Budesonide"", ""Glycopyrronium Bromide"", ""Formoterol Fumarate""]","[""Pudina""]",different_ingredients,Gcell,2
+234,Pumpkin [Cucurbita pepo],"[""Bumetanide""]","[""Pumpkin [Cucurbita pepo]""]",different_ingredients,Iripum,7
+235,Puncture Vine [Tribulus Terrestris],"[""Bupivacaine Hydrochloride""]","[""Puncture Vine [Tribulus Terrestris]""]",different_ingredients,Bflam,6
+236,Qurs Faulad,"[""Bupivacaine Hydrochloride"", ""Dextrose""]","[""Qurs Faulad""]",different_ingredients,Foulad,11
+237,Qurs Gulnar,"[""Bupropion Hydrochloride""]","[""Qurs Gulnar""]",different_ingredients,Dyrotab,3
+238,Qurs Muhazzil,"[""Butamirate Citrate""]","[""Qurs Muhazzil""]",different_ingredients,Sinaslim,68
+239,"Qurs Mulayin [Scammony, Lavender, Fennel]","[""Butenafine Hydrochloride""]","[""Qurs Mulayin [Scammony, Lavender, Fennel]""]",different_ingredients,"Herbolac, Senokot, Tonalax",5
+24,Aravindasav,"[""Adalimumab""]","[""Aravindasav""]",different_ingredients,Arkid,7
+240,Qurs Muqavvi khas,"[""Cabazitaxel""]","[""Qurs Muqavvi khas""]",different_ingredients,Aphrodin,2
+241,Qurs Pech,"[""Cabergoline""]","[""Qurs Pech""]",different_ingredients,"Dysent-G, Herbazyl",10
+242,Qurs Pudina,"[""Cabozantinib""]","[""Qurs Pudina""]",different_ingredients,Apicap,13
+243,Qurs Rehmin,"[""Caffeine Citrate""]","[""Qurs Rehmin""]",different_ingredients,Remisol,2
+244,Qurs Rlubarb,"[""Calamine"", ""Zinc Oxide"", ""Glycerine""]","[""Qurs Rlubarb""]",different_ingredients,Carbacid,5
+245,Qurs Sailan,"[""Calcipotriol Monohydrate""]","[""Qurs Sailan""]",different_ingredients,Lekona,5
+246,Qurs Salajeet,"[""Calcitriol""]","[""Qurs Salajeet""]",different_ingredients,Shilaj,17
+247,Qurs Shafi,"[""Calcium"", ""Vitamin D3"", ""Multimineral""]","[""Qurs Shafi""]",different_ingredients,"Free-G, Freetens",37
+248,Qurs Surfin,"[""Calcium Acetate""]","[""Qurs Surfin""]",different_ingredients,Surin,5
+249,Qurs Ziabit,"[""Calcium acetate"", ""Magnesium carbonate""]","[""Qurs Ziabit""]",different_ingredients,"Diatin, Ziabit",3
+25,Areca Catechu,"[""Adapalene""]","[""Areca Catechu""]",different_ingredients,Arecona,9
+250,Qushta Baiza,"[""Calcium Carbonate""]","[""Qushta Baiza""]",different_ingredients,CAL-G,88
+251,Rauwolfia,"[""Calcium Citrate"", ""Calcitriol""]","[""Rauwolfia""]",different_ingredients,Angicell,6
+252,Rebaudioside A [extract of stevia leaf],"[""Calcium Dobesilate""]","[""Rebaudioside A [extract of stevia leaf]""]",different_ingredients,"ChiniGo Premium, Disugar",9
+253,Red Clover Isoflavones,"[""Calcium Dobesilate"", ""Lidocaine"", ""Dexamethasone""]","[""Red Clover Isoflavones""]",different_ingredients,"Menotab, Redclov",8
+254,Rehmin,"[""Calcium Gluconate""]","[""Rehmin""]",different_ingredients,Hermin,5
+255,Rhubarb + Ginger,"[""Calcium Lactate""]","[""Rhubarb"", ""Ginger""]",different_ingredients,Redid,11
+256,Rohitakarista,"[""Calcium Lactate Gluconate"", ""Calcium Carbonate"", ""Vitamin C""]","[""Rohitakarista""]",different_ingredients,Hepatolin,16
+257,Rowghan Surkh,"[""Calcium Lactate Gluconate"", ""Calcium Carbonate"", ""Vitamin C"", ""Vitamin D3""]","[""Rowghan Surkh""]",different_ingredients,Sudha,10
+258,Rowghan Zeenat,"[""Calcium Lactate Gluconate"", ""Calcium Carbonate"", ""Vitamin D3""]","[""Rowghan Zeenat""]",different_ingredients,Bobcare,5
+259,S-Acetyl Glutathione,"[""Calcium Lactate Gluconate"", ""Calcium Carbonate"", ""Vitamin D3"", ""Multiminerals""]","[""S-Acetyl Glutathione""]",different_ingredients,Glothion,2
+26,Arjunarista,"[""Adapalene"", ""Benzoyl peroxide""]","[""Arjunarista""]",different_ingredients,"Arjunacard, Arjunarista-H, Cardina",11
+260,Saccharomyces Boulardii,"[""Calcium Orotate""]","[""Saccharomyces Boulardii""]",different_ingredients,"Biogut, Biosac, Bolardi, Goodbac-SB, Pro-B Kid",46
+261,Saccharomyces Boulardii + Lactobacillus Rhamnosus + Zinc,"[""Calcium Pantothenate""]","[""Saccharomyces Boulardii"", ""Lactobacillus Rhamnosus"", ""Zinc""]",different_ingredients,Proeast Z,2
+262,Saffron,"[""Calcium Phosphate [Milk source]"", ""Vitamin D3""]","[""Saffron""]",different_ingredients,Affrox,2
+263,Saffron + Mace arillus + Nutmeg fruit,"[""Calcium Polystyrene Sulfonate""]","[""Saffron"", ""Mace arillus"", ""Nutmeg fruit""]",different_ingredients,Libidex,2
+264,Saffron + Sand Lizard + Nutmeg fruit,"[""Camphor"", ""Menthol"", ""Oil Clove"", ""Oil Eucalyptus"", ""Oil Turpentine""]","[""Saffron"", ""Sand Lizard"", ""Nutmeg fruit""]",different_ingredients,Nishat,3
+265,"Salajeet [Mineral Pitch, Red Sage]","[""Canagliflozin Hemihydrate""]","[""Salajeet [Mineral Pitch, Red Sage]""]",different_ingredients,Selvin,6
+266,Salep + Coconut + Poppy Seeds + Almond,"[""Candesartan Cilexetil""]","[""Salep"", ""Coconut"", ""Poppy Seeds"", ""Almond""]",different_ingredients,Lubub Kabir,4
+267,Sana + Revand Chini + Neem + Chirata + Tulsi,"[""Candesartan Cilexetil"", ""Hydrochlorothiazide""]","[""Sana"", ""Revand Chini"", ""Neem"", ""Chirata"", ""Tulsi""]",different_ingredients,Safi,3
+268,Sanjivani Rasayan,"[""Capecitabine""]","[""Sanjivani Rasayan""]",different_ingredients,Santonic,16
+269,Sanoon Babla,"[""Capmatinib Hydrochloride""]","[""Sanoon Babla""]",different_ingredients,"Danta Rakkha, Pyodent",3
+27,Arq Lahmina,"[""Adefovir Dipivoxil""]","[""Arq Lahmina""]",different_ingredients,Gest,3
+270,Saribadyarista,"[""Capsaicin""]","[""Saribadyarista""]",different_ingredients,"Puricell, Safkin",4
+271,Saw Palmetto,"[""Captopril""]","[""Saw Palmetto""]",different_ingredients,"Palmet, Paltex, Pameto, Prostacare, Prostaid",14
+272,Sharbat Amla,"[""Carbamazepine""]","[""Sharbat Amla""]",different_ingredients,"Amlabery, Amlac, Myrosin",23
+273,Sharbat Arzani,"[""Carbamide Peroxide""]","[""Sharbat Arzani""]",different_ingredients,Pectoral,2
+274,Sharbat Atfal,"[""Carbetocin""]","[""Sharbat Atfal""]",different_ingredients,"Anisol, Grisol, Herbisol, Tifal",9
+275,Sharbat Banafsha,"[""Carbidopa"", ""Levodopa (Extended release)""]","[""Sharbat Banafsha""]",different_ingredients,Becotin,9
+276,Sharbat Buzuri,"[""Carbidopa"", ""Levodopa (Prolonged release)""]","[""Sharbat Buzuri""]",different_ingredients,"Alkari, Alkuli, Diure-G, Zurid",9
+277,Sharbat Chylosin,"[""Carbimazole""]","[""Sharbat Chylosin""]",different_ingredients,Hepa-10,5
+278,Sharbat Deenar,"[""Carbocisteine""]","[""Sharbat Deenar""]",different_ingredients,"G-Liv, Sinar",16
+279,Sharbat Dimaghi,"[""Carbonyl Iron"", ""Folic Acid""]","[""Sharbat Dimaghi""]",different_ingredients,Dimag,3
+28,Arq Lahsun,"[""Adenosine""]","[""Arq Lahsun""]",different_ingredients,Garlicon,2
+280,Sharbat Faulad,"[""Carbonyl Iron"", ""Folic Acid"", ""Zinc Sulfate""]","[""Sharbat Faulad""]",different_ingredients,"Faulad, Feroma",35
+281,Sharbat Jinsin,"[""Carbonyl Iron"", ""Folic Acid"", ""Zinc Sulfate"", ""Vitamin B Complex"", ""Vitamin C""]","[""Sharbat Jinsin""]",different_ingredients,"Hormo-G, Hormo-G SF, Sinaton",20
+282,Sharbat Jiryani,"[""Carboplatin""]","[""Sharbat Jiryani""]",different_ingredients,Jiryan,12
+283,Sharbat Mavez,"[""Carboprost Tromethamine""]","[""Sharbat Mavez""]",different_ingredients,Moviton,2
+284,Sharbat Misali,"[""Carboxymethylcellulose Sodium""]","[""Sharbat Misali""]",different_ingredients,"Carotone Plus, Cinkara, Naturovit, Vinsina, Vitacin",35
+285,Sharbat Musaffi,"[""Carboxymethylcellulose Sodium"", ""Glycerin""]","[""Sharbat Musaffi""]",different_ingredients,"Chirol, Hemosaf, Safex, Safrin",12
+286,Sharbat Niswan,"[""Carboxymethylcellulose Sodium"", ""Hypromellose""]","[""Sharbat Niswan""]",different_ingredients,"Femolin, Nawsin, Tims",10
+287,Sharbat Sailan,"[""Carfilzomib""]","[""Sharbat Sailan""]",different_ingredients,Lecorex,3
+288,Sharbat Santara,"[""Cariprazine""]","[""Sharbat Santara""]",different_ingredients,"Alkalex, Orangin, Santa, Santara-Jayson",6
+289,Sharbat Seb,"[""Carisoprodol""]","[""Sharbat Seb""]",different_ingredients,"G-Vitz, Sebton",8
+29,Arq Nankha,"[""Adenosine"", ""Cytochrome-C"", ""Sodium Succinate"", ""Nicotinamide""]","[""Arq Nankha""]",different_ingredients,Piper,10
+290,Sharbat Shefa,"[""Carmellose Sodium""]","[""Sharbat Shefa""]",different_ingredients,Shefaton,2
+291,Sharbat Tiflin,"[""Carmustine""]","[""Sharbat Tiflin""]",different_ingredients,Tifsol,2
+292,Shatamul,"[""Carvedilol""]","[""Shatamul""]",different_ingredients,Enfort,46
+293,"Shatavari, Vidarikand, Ashwagandha & others","[""Caspofungin Acetate""]","[""Shatavari, Vidarikand, Ashwagandha & others""]",different_ingredients,Lacto Plus,3
+294,Sida cordifolia + Withania somnifera,"[""Cefaclor Monohydrate""]","[""Sida cordifolia"", ""Withania somnifera""]",different_ingredients,Vitorist,34
+295,Silymarin [Dried extract of milk thistle fruits],"[""Cefadroxil Monohydrate""]","[""Silymarin [Dried extract of milk thistle fruits]""]",different_ingredients,"Berlin max, Bliss, Hepamarin, Hepamilk, Hepanor",54
+296,Silymarin & DL-Alpha Tocopherol,"[""Cefazolin Sodium""]","[""Silymarin & DL-Alpha Tocopherol""]",different_ingredients,"Livlyf, Silyvit-E",7
+297,Solanum Nigrum,"[""Cefdinir""]","[""Solanum Nigrum""]",different_ingredients,Arq Mako,13
+298,Spirulina,"[""Cefditoren""]","[""Spirulina""]",different_ingredients,"Acme's Spirulina, Arulina, Bexy-Fort, Brogel, Detox",30
+299,St. John’s Wort,"[""Cefepime Hydrochloride""]","[""St. John’s Wort""]",different_ingredients,"Anjort, Jonort, Perkup, Remotiv, Rimodep",60
+3,6s-5-Methyltetrahydrofolate [Bio-Active Folate],"[""17 β Estradiol""]","[""6s-5-Methyltetrahydrofolate [Bio-Active Folate]""]",different_ingredients,"Folive, Nutrifol, Q-late, Qfol, Ultrafol",7
+30,Arshahara Bati,"[""Adhatoda vasica"", ""Centella asiatica""]","[""Arshahara Bati""]",different_ingredients,Pilocell,2
+300,Steviol Glycoside,"[""Cefixime Trihydrate""]","[""Steviol Glycoside""]",different_ingredients,"SugarO Lite, SugarO Strong, Zerocal Stevia, Zerova",395
+301,Sufoof Joshanda,"[""Cefoperazone Sodium""]","[""Sufoof Joshanda""]",different_ingredients,JOSH,12
+302,Sufoof Jurhin,"[""Cefotaxime""]","[""Sufoof Jurhin""]",different_ingredients,Herbacid,27
+303,Sufuf Kabedi,"[""Cefpodoxime Proxetil""]","[""Sufuf Kabedi""]",different_ingredients,Kabedi,100
+304,Sukrasanjibani Modak,"[""Cefpodoxime Proxetil"", ""Clavulanic Acid""]","[""Sukrasanjibani Modak""]",different_ingredients,Sukracell,10
+305,Suspension Humuzin,"[""Ceftaroline Fosamil""]","[""Suspension Humuzin""]",different_ingredients,Gastozin,5
+306,"Suzark [Chir Pine, Chickpea, Pearl]","[""Ceftazidime"", ""Avibactam""]","[""Suzark [Chir Pine, Chickpea, Pearl]""]",different_ingredients,Suzarn,6
+307,Syzygium [Syzygium Cumini],"[""Ceftazidime Pentahydrate""]","[""Syzygium [Syzygium Cumini]""]",different_ingredients,Dinolax,58
+308,Tabkheer,"[""Ceftibuten Dihydrate""]","[""Tabkheer""]",different_ingredients,Agerd,44
+309,Tart Cherry,"[""Ceftriaxone Sodium""]","[""Tart Cherry""]",different_ingredients,"Eziflex, Tartflex",306
+31,Ashokarista,"[""Adrenaline""]","[""Ashokarista""]",different_ingredients,"Menocell, Menotox, O-Care",7
+310,"Tila Jadeed [Madar, Mace arillus, Nutmeg nut]","[""Cefuroxime Axetil""]","[""Tila Jadeed [Madar, Mace arillus, Nutmeg nut]""]",different_ingredients,Peniton,274
+311,"Tila Jadeed [Sambul phar, Shire madar, Beer bahoti]","[""Cefuroxime Axetil"", ""Clavulanic Acid""]","[""Tila Jadeed [Sambul phar, Shire madar, Beer bahoti]""]",different_ingredients,Vigogel,177
+312,Tila Mushki,"[""Celiprolol Hydrochloride""]","[""Tila Mushki""]",different_ingredients,Duragen,3
+313,Tocotrienol + Tocopherol,"[""Cenobamate""]","[""Tocotrienol"", ""Tocopherol""]",different_ingredients,Toco Soft,6
+314,Trachyspermum Ammi,"[""Cepalin"", ""Allantoin""]","[""Trachyspermum Ammi""]",different_ingredients,Arq Ajwain,4
+315,Turmeric + Piperine,"[""Cephalexin""]","[""Turmeric"", ""Piperine""]",different_ingredients,"Turmeric Plus, Turperin",36
+316,Ubidecarenone [Coenzyme Q10],"[""Cephradine""]","[""Ubidecarenone [Coenzyme Q10]""]",different_ingredients,"CoQ, Coxidant, Cozyme, Cozyten, Decaren",329
+317,Ubidecarenone + Magnesium + Vitamin D3,"[""Ceritinib""]","[""Ubidecarenone"", ""Magnesium"", ""Vitamin D3""]",different_ingredients,"Q-TS, Ultra-Q",4
+318,Ubidecarenone + Vitamin E,"[""Cetalkonium Chloride"", ""Choline Salicylate""]","[""Ubidecarenone"", ""Vitamin E""]",different_ingredients,UbiCare E,2
+319,Unani antacid preparation,"[""Cetirizine Hydrochloride""]","[""Unani antacid preparation""]",different_ingredients,Endemali,141
+32,Asparagus racemosus + Tamarindus indica,"[""Adsorbed tetanus vaccine""]","[""Asparagus racemosus"", ""Tamarindus indica""]",different_ingredients,Sufoof Jiryan,3
+320,Unani blood purifier,"[""Cetirizine Hydrochloride (Ophthalmic)""]","[""Unani blood purifier""]",different_ingredients,Etrifal Shahtara,5
+321,Unani cold-catarrh & headache tonic,"[""Cetrorelix Acetate""]","[""Unani cold-catarrh & headache tonic""]",different_ingredients,Etrifal Zamani,3
+322,Unani digestive tonic,"[""Cetuximab""]","[""Unani digestive tonic""]",different_ingredients,Etrifal Kashnizi,3
+323,Unani general tonic,"[""Chloral Hydrate""]","[""Unani general tonic""]",different_ingredients,Arq Maul-Hayat,2
+324,Unani headache tonic,"[""Chlorambucil""]","[""Unani headache tonic""]",different_ingredients,Etrifal Ustukhudus,2
+325,Unani Iron Tonic,"[""Chloramphenicol (Ophthalmic)""]","[""Unani Iron Tonic""]",different_ingredients,Arq Faulin,40
+326,Unani weakness tonic,"[""Chloramphenicol (Oral)""]","[""Unani weakness tonic""]",different_ingredients,"Arq Maul-Lahm, Vigreen Plus",10
+327,Undenatured Type II Collagen,"[""Chloramphenicol"", ""Lidocaine Hydrochloride""]","[""Undenatured Type II Collagen""]",different_ingredients,"Bio-Flex, Colacap, Coziflex, Flemo, FlexiRun",12
+328,Undenatured Type II Collagen + Boswellia Serrata,"[""Chlorhexidine Gluconate [0.2%]""]","[""Undenatured Type II Collagen"", ""Boswellia Serrata""]",different_ingredients,"FlexiRun Plus, Synogen Alfa, UC-B",9
+329,Undenatured Type II Collagen + Glucosamine Hydrochloride + Chondroitin Sulfate,"[""Chlorhexidine Gluconate [1%]""]","[""Undenatured Type II Collagen"", ""Glucosamine Hydrochloride"", ""Chondroitin Sulfate""]",different_ingredients,"Colagen Plus, Flemo Plus, Orthofit, Synogen Plus",8
+33,Astaxanthin + Vitamin E + Vitamin C,"[""Afatinib Dimaleate""]","[""Astaxanthin"", ""Vitamin E"", ""Vitamin C""]",different_ingredients,Astrivit,5
+330,Undenatured Type II Collagen + Glucosamine sulfate + Chondroitin Sulfate + Methylsulfonylmethane,"[""Chlorhexidine Gluconate [4%]""]","[""Undenatured Type II Collagen"", ""Glucosamine sulfate"", ""Chondroitin Sulfate"", ""Methylsulfonylmethane""]",different_ingredients,"Joint Relief Plus, Radiflex Plus",5
+331,Undenatured Type II Collagen + Hyaluronic Acid + Boswellia Serrata + Vitamin C,"[""Chlorhexidine Gluconate [7.1%]""]","[""Undenatured Type II Collagen"", ""Hyaluronic Acid"", ""Boswellia Serrata"", ""Vitamin C""]",different_ingredients,"Hybocare, Radiflex Rapid",7
+332,Undenatured Type II Collagen + Hyaluronic Acid + Methylsulfonylmethane + Turmeric + Boswellia serrata,"[""Chlorhexidine Gluconate"", ""Cetrimide""]","[""Undenatured Type II Collagen"", ""Hyaluronic Acid"", ""Methylsulfonylmethane"", ""Turmeric"", ""Boswellia serrata""]",different_ingredients,"Flemo Max, Glujoint, Hyagen Plus",19
+333,Uterotonic,"[""Chlorhexidine Gluconate"", ""Isopropyl alcohol""]","[""Uterotonic""]",different_ingredients,Majoon Sohagsoonth,42
+334,Valerian Root,"[""Chlorhexidine Hydrochloride"", ""Cetrimide""]","[""Valerian Root""]",different_ingredients,Valent,8
+335,Vaskar Laban [Piper + Zingiber + Cinnamomum],"[""Chlorhexidine hydrochloride"", ""Nystatin""]","[""Vaskar Laban [Piper"", ""Zingiber"", ""Cinnamomum]""]",different_ingredients,"Hajmo-A, Hazmitab",4
+336,Vitamin D3 + Vitamin K1 + Vitamin K2,"[""Chloroquine Phosphate""]","[""Vitamin D3"", ""Vitamin K1"", ""Vitamin K2""]",different_ingredients,DK,12
+337,Vitamin D3 + Vitamin K2,"[""Chloroxylenol""]","[""Vitamin D3"", ""Vitamin K2""]",different_ingredients,DK 4000,3
+338,Vitamin E [Alpha Tocopherol Acetate],"[""Chloroxylenol"", ""Triclosan""]","[""Vitamin E [Alpha Tocopherol Acetate]""]",different_ingredients,"Biovit-E, E 200, E 400, E-build, E-Cap",42
+339,White Damar + Acacia + Bole Rubra,"[""Chlorpheniramine Maleate""]","[""White Damar"", ""Acacia"", ""Bole Rubra""]",different_ingredients,Hantar,61
+34,Astragalus,"[""Aflibercept""]","[""Astragalus""]",different_ingredients,Monacell,2
+340,White Kidney Bean Extract,"[""Chlorpromazine Hydrochloride""]","[""White Kidney Bean Extract""]",different_ingredients,"Goslim, UltraSlim",7
+341,Yarrow [Achillea Millefolium],"[""Chlorthalidone""]","[""Yarrow [Achillea Millefolium]""]",different_ingredients,Yagel,8
+342,Yohimbine Hydrochloride,"[""Cholecalciferol [Vitamin D3]""]","[""Yohimbine Hydrochloride""]",different_ingredients,"Eredex, Megajoy, MX-Care, Yohim, Yorex",162
+343,Zingiber officinale,"[""Cholera Saline""]","[""Zingiber officinale""]",different_ingredients,Ginger,7
+344,β-Sitosterol,"[""Cholestyramine Resin""]","[""β-Sitosterol""]",different_ingredients,"Betaburn, Mebo, Osteogel",4
+35,Aswagandharista,"[""Aflibercept Intravitreal Injection""]","[""Aswagandharista""]",different_ingredients,Nervolin,2
+36,Aushokarist [Saraca Indica],"[""Agomelatine""]","[""Aushokarist [Saraca Indica]""]",different_ingredients,Dubarel,3
+37,Awjayee,"[""Albendazole""]","[""Awjayee""]",different_ingredients,"Joint Care, Reumac",98
+38,Azadirachta Indica,"[""Albumin (Human)""]","[""Azadirachta Indica""]",different_ingredients,Neemi,11
+39,Bacillus Subtilis [HU58],"[""Alcaftadine""]","[""Bacillus Subtilis [HU58]""]",different_ingredients,Goodbac-L,11
+4,Aab-e Hayat,"[""6 essential Nutrients with Omega-3""]","[""Aab-e Hayat""]",different_ingredients,Hayat,2
+40,Bacopa monnieri + Ginkgo biloba + Lecithin,"[""Alectinib""]","[""Bacopa monnieri"", ""Ginkgo biloba"", ""Lecithin""]",different_ingredients,"Gimery, Telectin",4
+41,Balarista,"[""Alendronic acid""]","[""Balarista""]",different_ingredients,"Balarist-A, Enerton, Reovit",5
+42,"Bandish [Oak Galls, Tannic acid]","[""Alendronic Acid"", ""Vitamin D3""]","[""Bandish [Oak Galls, Tannic acid]""]",different_ingredients,"Bandish, Peblew",4
+43,Barsina,"[""Alfacalcidol""]","[""Barsina""]",different_ingredients,"Antiligo, Pigmo",5
+44,Belgiri [Bael fruit + Connessi bark],"[""Alfuzosin Hydrochloride""]","[""Belgiri [Bael fruit"", ""Connessi bark]""]",different_ingredients,"Bel, Disolin, Marbelus",7
+45,Bifidobacterium animalis subsp. lactis,"[""Algae Calcium""]","[""Bifidobacterium animalis subsp. lactis""]",different_ingredients,Procolic,2
+46,Bilberry fruit [Vaccinium myrtillus L],"[""Algae Calcium"", ""Vitamin D3""]","[""Bilberry fruit [Vaccinium myrtillus L]""]",different_ingredients,"Eye-Fast, Ocuberry, Ocubil, Ocusence, Visibil",26
+47,Biotin,"[""Allantoin""]","[""Biotin""]",different_ingredients,"Beautin, Bio-7, Bioglo, Bioprem, Biot",41
+48,Biotin + Keratin + Alpha Lipoic Acid,"[""Allium cepa"", ""Heparin"", ""Allantoin""]","[""Biotin"", ""Keratin"", ""Alpha Lipoic Acid""]",different_ingredients,Floriz Alpha,2
+49,Bitter Melon [Korola],"[""Allopurinol""]","[""Bitter Melon [Korola]""]",different_ingredients,Melbit,11
+5,Abhayarista,"[""Abametapir""]","[""Abhayarista""]",different_ingredients,Hemorist,2
+50,Black Cohosh [Cimicifuga Racemosa],"[""Allylestrenol""]","[""Black Cohosh [Cimicifuga Racemosa]""]",different_ingredients,"F-Cohosh, Ladica, Menoaid, Menocare, Menofemin",16
+51,Black Seed Oil,"[""Almitrine Bismesylate"", ""Raubasine""]","[""Black Seed Oil""]",different_ingredients,Ibn Sina Black Seed Oil,4
+52,Black Seed Oil [Nigella Sativa],"[""Almotriptan""]","[""Black Seed Oil [Nigella Sativa]""]",different_ingredients,"Aliksir, Blaksid, D-Sefa, HollySeed, Nigel-N",9
+53,Borago Officinalis,"[""Aloe Vera & Vitamin E Acetate""]","[""Borago Officinalis""]",different_ingredients,Arq Gaozaban,2
+54,Brahmi Rasayan,"[""Aloe Vera Gel""]","[""Brahmi Rasayan""]",different_ingredients,"Braintel, Branula",3
+55,Brammiroshayan,"[""Alogliptin Benzoate""]","[""Brammiroshayan""]",different_ingredients,Monera,10
+56,Calendula Officinalis [Marigold],"[""Alpelisib""]","[""Calendula Officinalis [Marigold]""]",different_ingredients,Mariment,2
+57,Camphor + Thymol + Menthol + Eucalyptus oil,"[""Alpha-Lipoic Acid""]","[""Camphor"", ""Thymol"", ""Menthol"", ""Eucalyptus oil""]",different_ingredients,Kulzam,5
+58,Carica Papaya Leaf Extract,"[""Alphanate""]","[""Carica Papaya Leaf Extract""]",different_ingredients,"Caripa, Cariplate, Enplate, Papaya, Pepelif",10
+59,Chaste berry,"[""Alprazolam""]","[""Chaste berry""]",different_ingredients,"Menoberry, Minsbex, Penadios",28
+6,Acacia + Dates + Asparagus + Edible Pine,"[""Abemaciclib""]","[""Acacia"", ""Dates"", ""Asparagus"", ""Edible Pine""]",different_ingredients,Majoon Arade Khurma,7
+60,Chebulic Myrobalan + Barberry,"[""Alteplase""]","[""Chebulic Myrobalan"", ""Barberry""]",different_ingredients,Hanrhoid,2
+61,Cheste Tree Extract,"[""Aluminium Chloride"", ""Melaleuca Alternifolia Oil"", ""Geothermal water""]","[""Cheste Tree Extract""]",different_ingredients,Biomom,2
+62,Chirata [Swertia Chirata],"[""Aluminium Chloride Hexahydrate""]","[""Chirata [Swertia Chirata]""]",different_ingredients,"Chirata, Jarira, Total Chirota",6
+63,Chlorophytum arundinaceum + Curculigo orchioides,"[""Aluminium Hydroxide"", ""Magnesium Hydroxide""]","[""Chlorophytum arundinaceum"", ""Curculigo orchioides""]",different_ingredients,Sufoof Mugalliz,36
+64,Cinnamomum camphora + Menthol +Thymol,"[""Aluminium Hydroxide"", ""Magnesium Hydroxide"", ""Simethicone""]","[""Cinnamomum camphora"", ""Menthol"", ""Thymol""]",different_ingredients,Hamdard Balm,39
+65,Coconut oil [Organic extra virgin],"[""Aluminium Oxide"", ""Magnesium Trisilicate""]","[""Coconut oil [Organic extra virgin]""]",different_ingredients,Cococap,3
+66,Collagen II & GAGs,"[""Alverine Citrate""]","[""Collagen II & GAGs""]",different_ingredients,Biogen,8
+67,Collagen Peptide & Others,"[""Amantadine Hydrochloride""]","[""Collagen Peptide & Others""]",different_ingredients,Square Collagen,5
+68,Collagen Type-I + Chondroitin Sulfate + Sodium Hyaluronate + L-Arginine + Vitamin C,"[""Ambrisentan""]","[""Collagen Type-I"", ""Chondroitin Sulfate"", ""Sodium Hyaluronate"", ""L-Arginine"", ""Vitamin C""]",different_ingredients,Tenolig,3
+69,Combination of five natural herbs,"[""Ambroxol Hydrochloride""]","[""Combination of five natural herbs""]",different_ingredients,Femony,121
+7,Achillea millefolium + Artemisia absinthium,"[""Abiraterone Acetate""]","[""Achillea millefolium"", ""Artemisia absinthium""]",different_ingredients,Jigarine,8
+70,Compound Asparagus,"[""Amenamevir""]","[""Compound Asparagus""]",different_ingredients,Asparex,3
+71,Convolvulus scammonia + Colchicum luteum,"[""Amikacin""]","[""Convolvulus scammonia"", ""Colchicum luteum""]",different_ingredients,Majoon Suranjan,16
+72,Cranberry [Vaccinium macrocarpon],"[""Amino Acid""]","[""Cranberry [Vaccinium macrocarpon]""]",different_ingredients,"C-Berry, Cran-B, Cranberry, Cranbiotic, Cranmax",13
+73,Cranberry + D-mannose,"[""Amino Acid"", ""Calcium""]","[""Cranberry"", ""D-mannose""]",different_ingredients,Cranbac-D,2
+74,Cranberry + Probiotic Blend + Retinyl Acetate,"[""Amino Acid Ketoanalogues""]","[""Cranberry"", ""Probiotic Blend"", ""Retinyl Acetate""]",different_ingredients,UTIpro,9
+75,Cranberry + Saw Palmetto + Pygeum Bark + Tomato + Uva Ursi,"[""Amino Acid, D-Sorbitol & Electrolytes""]","[""Cranberry"", ""Saw Palmetto"", ""Pygeum Bark"", ""Tomato"", ""Uva Ursi""]",different_ingredients,Renacom,22
+76,Cucumis melo fruit extract,"[""Amino Acid, D-sorbitol, Vitamins & Electrolytes""]","[""Cucumis melo fruit extract""]",different_ingredients,MeloSOD,3
+77,Curcuma Longa [Turmeric Extract],"[""Amino Acid, Dextrose & Eloctrolytes""]","[""Curcuma Longa [Turmeric Extract]""]",different_ingredients,"Carcumed, Turmeric",3
+78,Curcuminoids [Curcuma Longa],"[""Amino acids, Glucose & Electrolytes""]","[""Curcuminoids [Curcuma Longa]""]",different_ingredients,"Curcumin, Curnoid",11
+79,d-Alpha Tocopherol [Natural Vitamin E],"[""Aminocaproic acid""]","[""d-Alpha Tocopherol [Natural Vitamin E]""]",different_ingredients,"E-Cap N, Tocogel",9
+8,Adhatoda vasica + Glycyrrhiza glabra,"[""Acalabrutinib""]","[""Adhatoda vasica"", ""Glycyrrhiza glabra""]",different_ingredients,Basaka,3
+80,D-chiro-inositol,"[""Aminophylline""]","[""D-chiro-inositol""]",different_ingredients,"Caroba, Chiro Cyst, Chirocap, Chirolin, D-Chiro",19
+81,Dasamularista,"[""Amiodarone Hydrochloride""]","[""Dasamularista""]",different_ingredients,Womenton,7
+82,Dasanga Kwath,"[""Amisulpride""]","[""Dasanga Kwath""]",different_ingredients,Gasto-4,11
+83,Date palm + Betel nut + Acacia,"[""Amitriptyline Hydrochloride""]","[""Date palm"", ""Betel nut"", ""Acacia""]",different_ingredients,Sufoof Suparipak,15
+84,Datura + Rhubarb + Ginger,"[""Amitriptyline Hydrochloride"", ""Chlordiazepoxide""]","[""Datura"", ""Rhubarb"", ""Ginger""]",different_ingredients,Hanpy,18
+85,Devil's Claw,"[""Amlexanox""]","[""Devil's Claw""]",different_ingredients,"Devilo, Ostylon",6
+86,Devil’s Cotton + Ashoka bark + Aswagandha,"[""Amlodipine Besilate""]","[""Devil’s Cotton"", ""Ashoka bark"", ""Aswagandha""]",different_ingredients,Masturin,82
+87,Dinar,"[""Amlodipine Besilate"", ""Atenolol""]","[""Dinar""]",different_ingredients,"Icturn, Livro",71
+88,Echinacea,"[""Amlodipine Besilate"", ""Atorvastatin""]","[""Echinacea""]",different_ingredients,"Ecold, Imutone, Nimulant, Procold",15
+89,Ejaz,"[""Amlodipine Besilate"", ""Benazepril Hydrochloride""]","[""Ejaz""]",different_ingredients,"Alvasin, G-Cold",12
+9,Almond + Coconut + Edible Pine + Salep,"[""Acarbose""]","[""Almond"", ""Coconut"", ""Edible Pine"", ""Salep""]",different_ingredients,"Aliz, Majoon Mugalliz, Majoon Mughalliz",8
+90,Emblic Myrobalan + Aswagandha + Grape,"[""Amlodipine Besilate"", ""Olmesartan Medoxomil""]","[""Emblic Myrobalan"", ""Aswagandha"", ""Grape""]",different_ingredients,"Acme's Chyabanprash, Chabonprash-Jayson, Dabur Chyawanprash, Hamdard Chyabanprash",73
+91,Emblic Myrobalan + Chebulic + Belleric,"[""Amlodipine Besilate"", ""Telmisartan""]","[""Emblic Myrobalan"", ""Chebulic"", ""Belleric""]",different_ingredients,Trifala Churna,50
+92,Emblica officinalis + Piper longum,"[""Amlodipine Besilate"", ""Valsartan""]","[""Emblica officinalis"", ""Piper longum""]",different_ingredients,AmCivit,21
+93,Emblica officinalis + Sesamum indicum,"[""Amorolfine Hydrochloride (cream)""]","[""Emblica officinalis"", ""Sesamum indicum""]",different_ingredients,"Hamdard Amla, Ibn Sina Amla",4
+94,"Epimedium sagittatum, Maca Root & others","[""Amorolfine Hydrochloride (Nail Lacquer)""]","[""Epimedium sagittatum, Maca Root & others""]",different_ingredients,Manli,2
+95,Espand,"[""Amoxicillin"", ""Clavulanic Acid""]","[""Espand""]",different_ingredients,"Insperm, Spajoon",96
+96,Evening primrose oil,"[""Amoxicillin Trihydrate""]","[""Evening primrose oil""]",different_ingredients,"Eprim, Eprim Plus, Evarose, Even Care, Femorose",232
+97,"Fennel [Mouri, Gohkshura, Kasni]","[""Amphotericin B""]","[""Fennel [Mouri, Gohkshura, Kasni]""]",different_ingredients,Uricool,3
+98,"Fennel, Fenugreek, Cumin, Aniseed, Cumin & Dill Powder","[""Ampicillin Sodium""]","[""Fennel, Fenugreek, Cumin, Aniseed, Cumin & Dill Powder""]",different_ingredients,"Maximilk, Momcare-N, Moremilk",16
+99,Fenugreek,"[""Anastrozole""]","[""Fenugreek""]",different_ingredients,Estes,9

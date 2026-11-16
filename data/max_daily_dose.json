@@ -1,0 +1,49 @@
+{
+    "_comment": "Reference adult maximum daily doses for the demo dose-load check. These are widely published standard adult maximums, NOT personal medical advice and NOT a substitute for a pharmacist or doctor. Only drugs with a well-established single-number maximum are listed; drugs dosed by INR, weight or kidney function (e.g. warfarin) are deliberately absent, so the engine reports Unknown for them instead of inventing a limit. Add entries only with a citable source.",
+    "max_mg_per_day": {
+        "Acetaminophen": {
+            "max_mg_per_day": 4000,
+            "note": "Same drug as paracetamol (alias)."
+        },
+        "Amoxicillin": {
+            "max_mg_per_day": 3000,
+            "note": "Usual adult maximum 3 g/day across indications."
+        },
+        "Aspirin": {
+            "max_mg_per_day": 4000,
+            "note": "Analgesic maximum. Low-dose antiplatelet use (75-100 mg) is far below this; the check is about total dose."
+        },
+        "Caffeine": {
+            "max_mg_per_day": 400,
+            "note": "General adult guidance for total caffeine from all sources (medicines, tea, coffee)."
+        },
+        "Cetirizine": {
+            "max_mg_per_day": 10,
+            "note": "Standard adult dose is 10 mg once daily."
+        },
+        "Ibuprofen": {
+            "max_mg_per_day": 1200,
+            "note": "Over-the-counter limit. Prescription use can go higher under a doctor's direction — the engine uses the conservative OTC figure."
+        },
+        "Loratadine": {
+            "max_mg_per_day": 10,
+            "note": "Standard adult dose is 10 mg once daily."
+        },
+        "Metformin": {
+            "max_mg_per_day": 2550,
+            "note": "Usual adult maximum 2,550 mg/day (immediate-release). Lower with kidney impairment — the engine does not know kidney function."
+        },
+        "Omeprazole": {
+            "max_mg_per_day": 40,
+            "note": "Usual adult maximum 40 mg/day for common indications."
+        },
+        "Paracetamol": {
+            "max_mg_per_day": 4000,
+            "note": "Standard adult maximum 4 g/day from all sources combined, including combination products."
+        },
+        "Simvastatin": {
+            "max_mg_per_day": 80,
+            "note": "Adult maximum 80 mg/day (the 80 mg dose itself carries extra muscle risk — flag, don't rely on this number alone)."
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "patient": "demo",
+    "medicines": [
+        {
+            "brand": "Napa Extra",
+            "doses_per_day": 2
+        },
+        {
+            "brand": "Seclo",
+            "doses_per_day": 1
+        }
+    ]
+}

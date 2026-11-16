@@ -1,0 +1,17 @@
+pymongo>=4.6
+Pillow>=10
+# Phase 4 API + report + chat:
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+fpdf2>=2.7
+chromadb>=0.5
+# Phase 3 intake (install on the demo machine when needed):
+# paddleocr — printed-text OCR, the first route in intake.py.
+#   Heavy: pulls torch. Not needed for the vision-LLM route (--mode llm).
+# google-genai — Gemini vision fallback for handwriting.
+#   Only needed if no OpenAI-compatible provider is configured.
+# sentence-transformers — optional LOCAL embedding fallback for the
+#   Phase 4 document chat (doc_chat.py). Only used when no
+#   OpenAI-compatible /embeddings endpoint is configured
+#   (LLM_BASE_URL + EMBEDDING_MODEL); heavy, install only if needed.
